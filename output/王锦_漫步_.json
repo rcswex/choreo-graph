@@ -1,0 +1,14 @@
+{
+  "video_name": "王锦_漫步_",
+  "fps": 6,
+  "frame_count": 1295,
+  "duration": 269.1666666666667,
+  "nodes": [
+    "head",
+    "left_hand",
+    "right_hand",
+    "torso",
+    "left_leg",
+    "right_leg"
+  ]
+}

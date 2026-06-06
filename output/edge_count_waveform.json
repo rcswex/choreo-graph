@@ -1,0 +1,67 @@
+{
+  "type": "edge_count_waveform",
+  "timestamps": [
+    0.0,
+    0.45,
+    1.0,
+    2.4,
+    3.0
+  ],
+  "edge_counts": [
+    12,
+    10,
+    10,
+    12,
+    12
+  ],
+  "transitions": [
+    {
+      "tau_minus": 0.45,
+      "tau_plus": 0.45,
+      "edge": "(left_hand, chair)",
+      "sigma": "intra_body",
+      "edge_count_before": 12,
+      "edge_count_after": 11
+    },
+    {
+      "tau_minus": 0.45,
+      "tau_plus": 0.45,
+      "edge": "(right_hand, chair)",
+      "sigma": "intra_body",
+      "edge_count_before": 11,
+      "edge_count_after": 10
+    },
+    {
+      "tau_minus": 1.0,
+      "tau_plus": 1.0,
+      "edge": "(left_hand, torso)",
+      "sigma": "intra_body",
+      "edge_count_before": 10,
+      "edge_count_after": 10
+    },
+    {
+      "tau_minus": 1.0,
+      "tau_plus": 1.0,
+      "edge": "(right_hand, torso)",
+      "sigma": "intra_body",
+      "edge_count_before": 10,
+      "edge_count_after": 10
+    },
+    {
+      "tau_minus": 2.4,
+      "tau_plus": 2.4,
+      "edge": "(head, left_hand)",
+      "sigma": "new_coupling",
+      "edge_count_before": 10,
+      "edge_count_after": 11
+    },
+    {
+      "tau_minus": 2.4,
+      "tau_plus": 2.4,
+      "edge": "(head, right_hand)",
+      "sigma": "new_coupling",
+      "edge_count_before": 11,
+      "edge_count_after": 12
+    }
+  ]
+}

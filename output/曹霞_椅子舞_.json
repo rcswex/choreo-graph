@@ -1,0 +1,14 @@
+{
+  "video_name": "曹霞_椅子舞_",
+  "fps": 15,
+  "frame_count": 223,
+  "duration": 249.93333333333334,
+  "nodes": [
+    "head",
+    "left_hand",
+    "right_hand",
+    "torso",
+    "left_leg",
+    "right_leg"
+  ]
+}

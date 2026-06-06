@@ -1,0 +1,14 @@
+{
+  "video_name": "鲁思彤_浮光_",
+  "fps": 30,
+  "frame_count": 291,
+  "duration": 37.96666666666667,
+  "nodes": [
+    "head",
+    "left_hand",
+    "right_hand",
+    "torso",
+    "left_leg",
+    "right_leg"
+  ]
+}
